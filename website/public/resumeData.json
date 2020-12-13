@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Ofego Edafe",
+    "occupation": "Junior Software Engineer",
+    "description": "with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance",
+    "image": "20019420.jpeg",
+    "bio": "Since beginning my journey as a freelance designer nearly 4 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and constantly working on improving my skills one design problem at a time.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "edafeo1@gmail.com",
+    "phone": "+61 49 21 52 527",
+    "address": {
+      "street": "3 Henry Street ",
+      "city": "Sydney",
+      "state": "AUSTRALIA",
+      "zip": "2205"
+    },
+    "website": "https://github.com/edafeo1",
+    "resumedownload": "...",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/oreva-edafe-b5051383",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/edafeo1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Anyone can fix problems or come about with Contemporary solutions , with my years of experience undergoing my current bachelors degree in software engineering, i have been pushed beyond this. The idea is not simply to build a solution... but designing the best solution that is a reliable end result. with as low maintainance as neccessary and no complexity.",
+    "education": [
+      {
+        "school": "Macquarie University",
+        "degree": "Bachelor in Software Engineering",
+        "graduated": "June 2022",
+        "description": "In Progress"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kuse Human Solutions",
+        "title": "Team Member & Web Application Developer",
+        "years": "April 2019 - Present",
+        "description": "Responsible for Managing & Deploying Web Applications for Clients"
+      },
+      {
+        "company": "Energy Force LTD ",
+        "title": "Junior Software Engineer",
+        "years": "Nov 2018 - April 2019",
+        "description": "Developed User interface to facilitate business model"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JAVA",
+        "level": "80%"
+      },
+      {
+        "name": "PYTHON",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "REACTJS",
+        "level": "65%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Quiz Application",
+        "category": "My Sample Quiz app",
+        "image": "project.jpg",
+        "url": "https://github.com/edafeo1/Quiz-Appllication"
+      },
+      {
+        "title": "How To Use Design Patterns ",
+        "category": "Design Pattern Example",
+        "image": "project.jpg",
+        "url": "https://github.com/edafeo1/Grid-Project-Design-Pattern-"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "project.jpg",
+        "url": "https://github.com/edafeo1/Facebook-CLONE"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "project.jpg",
+        "url": "https://github.com/edafeo1/Airbnb-CLONE"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Thank you so much for your contribution to my project, without your efforts i surely wouldnt have arrived at a precise solution.",
+        "user": "Kareem Jabbar"
+      },
+      {
+        "text": "Ofego Edafe must be one of the most brilliant pupils I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may still be completing his degree and have a little on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Stevie Tomson... Lecturer "
+      }
+    ]
+  }
+}
