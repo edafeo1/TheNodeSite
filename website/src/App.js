@@ -9,6 +9,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import Navbar from './Components/Navbar';
 
 /* comment*/
 
@@ -45,6 +46,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Navbar/>
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
